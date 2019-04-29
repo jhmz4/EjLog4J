@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EjLog4J:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EjLog4J_jar</output-path>
+    <root id="archive" name="EjLog4J.jar">
+      <element id="module-output" name="EjLog4J" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

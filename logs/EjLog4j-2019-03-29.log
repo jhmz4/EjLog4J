@@ -1,0 +1,24 @@
+[TRACE] - EjLog4j2:12 2018-04-04 11:51:22 - trace message
+[DEBUG] - EjLog4j2:13 2018-04-04 11:51:22 - debug message
+[ WARN] - EjLog4j2:14 2018-04-04 11:51:22 - warn message
+[ INFO] - EjLog4j2:15 2018-04-04 11:51:22 - info message
+[ERROR] - EjLog4j2:16 2018-04-04 11:51:22 - error message
+[FATAL] - EjLog4j2:17 2018-04-04 11:51:22 - fatal message
+[TRACE] - EjLog4j2:12 2019-03-06 13:52:47 - trace message
+[DEBUG] - EjLog4j2:13 2019-03-06 13:52:47 - debug message
+[ WARN] - EjLog4j2:14 2019-03-06 13:52:47 - warn message
+[ INFO] - EjLog4j2:15 2019-03-06 13:52:47 - info message
+[ERROR] - EjLog4j2:16 2019-03-06 13:52:47 - error message
+[FATAL] - EjLog4j2:17 2019-03-06 13:52:47 - fatal message
+[TRACE] - EjLog4j2:12 2019-03-06 14:19:41 - trace message
+[DEBUG] - EjLog4j2:13 2019-03-06 14:19:41 - debug message
+[ WARN] - EjLog4j2:14 2019-03-06 14:19:41 - warn message
+[ INFO] - EjLog4j2:15 2019-03-06 14:19:41 - info message
+[ERROR] - EjLog4j2:16 2019-03-06 14:19:41 - error message
+[FATAL] - EjLog4j2:17 2019-03-06 14:19:41 - fatal message
+[TRACE] - EjLog4j2:12 2019-03-29 11:05:04 - trace message
+[DEBUG] - EjLog4j2:13 2019-03-29 11:05:04 - debug message
+[ WARN] - EjLog4j2:14 2019-03-29 11:05:04 - warn message
+[ INFO] - EjLog4j2:15 2019-03-29 11:05:04 - info message
+[ERROR] - EjLog4j2:16 2019-03-29 11:05:04 - error message
+[FATAL] - EjLog4j2:17 2019-03-29 11:05:04 - fatal message
